@@ -1,8 +1,11 @@
-# Reading-notes
-## GROWTH MINDSET
+
+# GROWTH MINDSET
 
 
 ![brain](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset-1200x630.jpg)
+
+## A SUMMARY
+
 ### What is a growth mindset?
 A growth mindset denotes that persistence and putting your effort into doing something will most definitely result in growing and improving your abilities;intelligence and talent are only a good kickstart but not actual determinenats of the end result nor your growth and learning process. A growth mindset is often synonymous with a dynamic mindset which  allows you to create interest and momentum to move your ideas forward, take concrete steps to make your ideas reality and take advantage of novel opportunities that might otherwise go untapped; consequently, youn will be able to lead others with energy and confidence.
 
