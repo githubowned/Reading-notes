@@ -42,7 +42,7 @@ No pain, No gain | All effort is fruitless
 
 
 
-### How can *I keep my growth mindset* and improve it?
+### How can *I keep my growth mindset* and improve it? :arrow_upper_right:
 1-Acknowledge and embrace imperfections and flaws.
 
 2-look at challenges as opportunities.
@@ -55,3 +55,5 @@ No pain, No gain | All effort is fruitless
 
 
 ![FINALE](https://i.pinimg.com/736x/7a/e7/ac/7ae7acc306eb20c87297a462604929ca.jpg)
+
+
