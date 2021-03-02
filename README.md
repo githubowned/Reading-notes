@@ -33,9 +33,9 @@ No pain, No gain | All effort is fruitless
 
 
 
->SCHOLARLY PERSPECTIVE:
+>  ***SCHOLARLY PERSPECTIVE:***
 >
-> A fixed mindset, proposed by Stanford professor Carol Dweck in her book Mindset describes people who see their qualities as fixed traits that cannot change. With a fixed mindset, talent is enough to lead to success and effort to improve these talents isn’t required: one is born with a certain amount of skill and intelligence that can’t be improved upon. 
+> **A fixed mindset, proposed by Stanford professor Carol Dweck in her book Mindset describes people who see their qualities as fixed traits that cannot change. With a fixed mindset, talent is enough to lead to success and effort to improve these talents isn’t required: one is born with a certain amount of skill and intelligence that can’t be improved upon.**
 
 
 
