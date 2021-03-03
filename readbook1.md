@@ -1,5 +1,6 @@
 # Summary of Read 3/3/2021 - Wednesday.
 
+
 ## Chapter 18
 ### PROCESS AND DESIGN 
 <p>&nbsp;</p>
