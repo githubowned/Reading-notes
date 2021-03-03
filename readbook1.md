@@ -30,7 +30,15 @@ Generally, the body is divided into three main parts:
 </p>
 
 <p> You can use a site map to structure your webpage and a wirefram to arrange the content of each part and where is it loacted. </p>
+<p>&nbsp;</p>
 
+ ### A site map: <p>&nbsp;</p>
+
+![sitemap](https://landing.moqups.com/img/content/diagrams/site-maps/ecommerce-shop-sitemap-template.png)
+
+
+ ### Wireframe: <p>&nbsp;</p>
+![wireframe](https://www.freepik.com/blog/app/uploads/2019/05/how-use-wireframes-web-design-Cover-post-100.jpg)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
