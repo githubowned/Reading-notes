@@ -11,3 +11,5 @@
 [5. Readbook 1](https://mohammadaltamimi98.github.io/Reading-notes/readbook1)
 
 [6. read 4](https://mohammadaltamimi98.github.io/Reading-notes/read4)
+
+[7. READ 04- VIDEO NOTES](https://mohammadaltamimi98.github.io/Reading-notes/vn)
