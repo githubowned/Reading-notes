@@ -6,7 +6,7 @@ You can use the script tag:
 insert java script here 
 </script> 
 `
-> THhe scipt tag can be installed in any place within the head and the body.
+> The script tag can be installed in any place within the head or the body.
 
 
-You can use seperate the JavaScript on a seperate page by adding the attribute  src="path.js" .
+You can seperate the JavaScript on a different file page by adding the attribute  src="path.js" to the script tag .
