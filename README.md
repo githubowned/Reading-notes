@@ -15,3 +15,4 @@
 [7. READ 04- VIDEO NOTES](https://mohammadaltamimi98.github.io/Reading-notes/vn)
 
 [8. Read: 04cv](https://mohammadaltamimi98.github.io/Reading-notes/Read4c)
+[9.READ05](https://mohammadaltamimi98.github.io/Reading-notes/read05)
