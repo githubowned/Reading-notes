@@ -20,3 +20,4 @@
 
 [8. Read: 04c](https://mohammadaltamimi98.github.io/Reading-notes/Read4c)
 
+[9. Read:06](https://mohammadaltamimi98.github.io/Reading-notes/Read06)
