@@ -1,23 +1,6 @@
-# [Table of contents](https://mohammadaltamimi98.github.io/Reading-notes): 
+This is A website that includes all my reading notes and it will be divided into four main sections depending on the class attended:
 
-[1. GROWTH MINDSET](https://mohammadaltamimi98.github.io/Reading-notes/GrowthMindset)
+[1. C0DE - 101/102](https://mohammadaltamimi98.github.io/Reading-notes/TableOfContents101-102)
 
-[2. MASTERING MARKDOWN READ A1](https://mohammadaltamimi98.github.io/Reading-notes/reada1)
+[2. CODE -  201 ](https://mohammadaltamimi98.github.io/Reading-notes/TableOfContents201)
 
-[3. A Git intro](https://mohammadaltamimi98.github.io/Reading-notes/asummary)
-
-[4. Who am I?](https://mohammadaltamimi98.github.io/Reading-notes/ME)
-
-[5. Readbook 1](https://mohammadaltamimi98.github.io/Reading-notes/readbook1)
-
-[6. read 4](https://mohammadaltamimi98.github.io/Reading-notes/read4)
-
-[7. READ 04- VIDEO NOTES](https://mohammadaltamimi98.github.io/Reading-notes/vn)
-
-
-[8. Read: 04cv](https://mohammadaltamimi98.github.io/Reading-notes/Read4c)
-[9.READ05](https://mohammadaltamimi98.github.io/Reading-notes/read05)
-
-[8. Read: 04c](https://mohammadaltamimi98.github.io/Reading-notes/Read4c)
-
-[9. Read:06](https://mohammadaltamimi98.github.io/Reading-notes/read06)
