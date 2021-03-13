@@ -79,7 +79,6 @@ computer."[2]
 
 > - The code is divided into two parts : 
 >> 1. the head: whatever is in the head doesn't show on the page; usually for styles and linking elements to the HTML.
->>
 >> 2. the body: this part is shown on the page and this is where content is contained.
 
 
