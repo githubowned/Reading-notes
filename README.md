@@ -3,7 +3,7 @@
 ---
 
 
-### [1. C0DE - 101/102](https://mohammadaltamimi98.github.io/Reading-notes/101/TableOfContents101-102)
+### [1. CODE - 101/102](https://mohammadaltamimi98.github.io/Reading-notes/101/TableOfContents101-102)
 <p>&nbsp;</p>
 
 
