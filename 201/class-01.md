@@ -90,4 +90,95 @@ computer."[2]
 <p>&nbsp;</p>
 
 
+
+## WHAT IS MARKDOWN?
+Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
+
+> MARKDOWN extension is  '.md' or `.markdown`.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ![extra markup](/images/em.png)
+
+
+
+
+
+
+## **what is CSS ?**
+---
+It is short for cascading style sheets.
+why do we use it ? we use it to change the styling an layout of our web pages.
+<p>&nbsp;</p>
+
+### How do we use it ?
+- Inline : it is included in the same tag in the HTML file.
+
+- External: it is saved on a seperate file with the extension `.css `.
+
+- Internal: within the same HTML file but will not be included within the body of the webpage; rather it will be included in the head part of the webpage.
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### How the inline method works?<br>
+
+`<p style="color:red;"> `
+
+<p>&nbsp;</p>
+
+
+### How the internal method work?<br>
+
+``` <head>
+<style>
+p{color: red ;}
+</style> 
+</head>
+```
+### How the external method work?<br>
+```
+<head>
+<link rel="stylesheet" href"styles.css" >
+</head>
+```
+
+
+### PROCESS AND DESIGN 
+<p>&nbsp;</p>
+ <P> Before building a website you should consider the following questions and answer them.</p>
+
+<ol>
+<li> Who is your target audience?</li>
+<li> What goals are you trying to achieve? </li>
+<li> How often is your site visited?</li>
+<li> Are you getting your messege across?</li>
+<p>&nbsp;</p>
+
+
+<p> The website builder should most definitely recognize his target audience whether its indivisuals or companies; as indivisuals should be focused on then classify them according to age, gender, wealth and income, geography etc.<br>If it was a company that you are targeting you should make sure they are aware of what these companies need, what are their budgets and how can you adverstise to them and get them under your hooks.</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+### **Website structure and content**
+---
+<p> Before creating a website you should know how to structure your website, what are the main parts and what are the contents of each part.
+
+Generally, the body is divided into three main parts:
+<ul>
+<li>The header.</li>
+<li>The main part.</li>
+<li>The Footer.</li>
+</ul>
+</p>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Java script
+---
+It's a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and much more.
+
