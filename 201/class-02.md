@@ -98,11 +98,13 @@ Why do we use loops ?
 
 
 - Any paragraph can be defined by using the tags:
+
 ```
 <p>
  content text
 </P>
 ```
+
 
 
 
