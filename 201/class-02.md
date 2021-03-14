@@ -157,7 +157,7 @@ THE QUOTE
 
 ## **CSS Instruction**
 
-- In order to understand styling with CSS we need to think of each element as if it is in a box.
+- In order to understand styling with CSS we need to think of each element as if it is in a box. This image will show how does it work.
 
 
 ![inside the box](/images/itb.png)
@@ -177,19 +177,46 @@ THE QUOTE
 
 >> note: you seperate between the attribute and the value by a colon and you must end each attribute with a semi colon.
 
- <p>&nbsp;</p>
+ 
+<p>&nbsp;</p>
   <p>&nbsp;</p>
-
 
 - There are different types of selectors such as; universal selectors (*), class selectors (.) as we mentioned in previous notes (check them!).
 
+<p>&nbsp;</p>
+  <p>&nbsp;</p>
 
-### WHY do we use external Style sheets? 
+###  WHY do we use external Style sheets? 
 1. To avoid repeatition.
 2. To make the script and code more clear.
 3. To edit one file if the style is to be changed.
-
+<p>&nbsp;</p>
+  <p>&nbsp;</p>
 
 ### How CSS Rules Cascade?
 1. latest if two selectors are 100% identical then the latest rule will apply[not chronologically but steps wise.]
 2. specification: the more specified selector will get the attribute so if you use a class selector it will take precedence over a universal selector.
+
+
+
+
+<p>&nbsp;</p>
+  <p>&nbsp;</p>
+<p>&nbsp;</p>
+  <p>&nbsp;</p>
+<p>&nbsp;</p>
+  <p>&nbsp;</p>
+
+---
+
+References: 
+1. From the Duckett HTML book:<br>
+Chapter 2: “Text” (pp.40-61).<br>
+Chapter 10: Ch.10 “Introducing CSS” (pp.226-245).<br>
+
+
+ <p>&nbsp;</p>
+
+2. From the Duckett JS book:<br>
+Chapter 2: “Basic JavaScript Instructions” (pp.53-84)<br>
+Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)<br>
