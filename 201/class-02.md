@@ -89,9 +89,11 @@ Why do we use loops ?
 ---
 
 ### Texts:
+
 - HTML has six levels of heading that range in size from h1 being the largest till h6.
 
 ![headings](https://qph.fs.quoracdn.net/main-qimg-a21e4d03936ffd09d6eb38db5749bc62)
+
 
 
 
@@ -101,6 +103,8 @@ Why do we use loops ?
  content text
 </P>
 ```
+
+
 
 ### Styling the text content:
  - You can use the following tags to change the format of your font:
