@@ -2,3 +2,6 @@
 ---
 
 [1. Read: 01 - Introductory HTML and JavaScript](https://mohammadaltamimi98.github.io/Reading-notes/201/class-01)
+
+
+[2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://mohammadaltamimi98.github.io/Reading-notes/201/class-02)
