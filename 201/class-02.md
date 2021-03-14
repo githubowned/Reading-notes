@@ -98,13 +98,14 @@ Why do we use loops ?
 
 
 - Any paragraph can be defined by using the tags:
+<p>&nbsp;</p>
 
 ```
 <p>
  content text
 </P>
 ```
-
+<p>&nbsp;</p>
 
 
 
@@ -116,12 +117,13 @@ Why do we use loops ?
 
     - subscript: `<sub>` used in footnotes and chemical equations especially.
 
-  <hr/>
+ 
+
+
 
 <p>&nbsp;</p>
 
-
- -  How to add  a ***linebreak*** and a ***horizontal ruler***?
+-  How to add  a ***linebreak*** and a ***horizontal ruler***?
 
   `<br/>` is used to insert a line break; so the line ends and the next word will show on the next line.
 
@@ -227,4 +229,4 @@ Chapter 10: Ch.10 “Introducing CSS” (pp.226-245).<br>
 Chapter 2: “Basic JavaScript Instructions” (pp.53-84)<br>
 Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)<br>
 
-3. The image showing the headings type is taken from this URL:(https://qph.fs.quoracdn.net/main-qimg-a21e4d03936ffd09d6eb38db5749bc62)
+3. The image showing the headings type is taken from this URL: [Headings](https://qph.fs.quoracdn.net/main-qimg-a21e4d03936ffd09d6eb38db5749bc62)
