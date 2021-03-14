@@ -220,3 +220,5 @@ Chapter 10: Ch.10 “Introducing CSS” (pp.226-245).<br>
 2. From the Duckett JS book:<br>
 Chapter 2: “Basic JavaScript Instructions” (pp.53-84)<br>
 Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)<br>
+
+3. The image showing the headings type is taken from this URL:(https://qph.fs.quoracdn.net/main-qimg-a21e4d03936ffd09d6eb38db5749bc62)
