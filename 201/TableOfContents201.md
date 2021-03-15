@@ -5,3 +5,7 @@
 
 
 [2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://mohammadaltamimi98.github.io/Reading-notes/201/class-02)
+
+
+[3.Readings : HTML Lists, Control Flow with JS, and the CSS Box Model](https://mohammadaltamimi98.github.io/Reading-notes/201/class-03)
+
