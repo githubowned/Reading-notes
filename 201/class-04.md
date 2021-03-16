@@ -118,3 +118,23 @@ An absolute URL starts with the **domain name** for that site, and can be follow
 to a specific page. If no page is specified, the site will display the homepage.
 
 When you are linking to other pages within the same site, you do not need to specify the domain name in the URL. You can use a shorthand known as **a relative URL**.
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+# References:
+
+
+1. the Duckett HTML book:
+    - Chapter 4: Ch.4 “Links” (pp.74-93)
+    - Chapter 15: “Layout” (pp.358-404)
+
+2. From the Duckett JS book:
+    - Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
+    - Article: “6 Reasons for Pair Programming”
