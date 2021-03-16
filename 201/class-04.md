@@ -103,7 +103,7 @@ Are really what makes the term "surfing the web". links allow you to travel to o
 ### How to write a link?
 <p>&nbsp;</p>
 
-![HOW TO WRITE A LINK](/images/wl.png)
+![htwal](/images/wl.png)
 
 <p>&nbsp;</p>
 
