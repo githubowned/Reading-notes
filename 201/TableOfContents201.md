@@ -9,7 +9,7 @@
 
 [3. Readings : HTML Lists, Control Flow with JS, and the CSS Box Model](https://mohammadaltamimi98.github.io/Reading-notes/201/class-03)
 
-
+[Read: 04 - HTML Links, CSS Layout, JS Functions]((https://mohammadaltamimi98.github.io/Reading-notes/201/class-04)
 
 
 
