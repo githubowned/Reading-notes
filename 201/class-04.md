@@ -49,7 +49,7 @@ It is the process where two programmer's work together to tackle a specific task
 - we use the following syntax to declare a function.
 <p>&nbsp;</p>
 
-![to declare a function](/images/df.png)
+![to declare a function](\images\df.png)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -59,7 +59,7 @@ It is the process where two programmer's work together to tackle a specific task
 
 - We use the following syntax to call out a function.
 
-![calling a function](/images/cf.png)
+![calling a function](\images\cf.png)
 
 
 <p>&nbsp;</p>
@@ -68,7 +68,7 @@ It is the process where two programmer's work together to tackle a specific task
 ### How to create a function that will take in parameters?
 
 - We use the following syntax to declare  a function that will take take parameters.
-![parameter function](/images/p.png)
+![parameter function](\images\p.png)
 
 
 <p>&nbsp;</p>
@@ -103,7 +103,7 @@ Are really what makes the term "surfing the web". links allow you to travel to o
 ### How to write a link?
 <p>&nbsp;</p>
 
-![htwal](../images/wl.png)
+![htwal](\images\wl.png)
 
 <p>&nbsp;</p>
 
