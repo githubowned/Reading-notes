@@ -90,3 +90,31 @@ It is the process where two programmer's work together to tackle a specific task
 <p>&nbsp;</p>
 
 > Global variables take more memory because they will be running all the time in that web page; unlike local variable which will take less memory because they will only be used when the function is to be executed.
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Links
+---
+Are really what makes the term "surfing the web". links allow you to travel to other websites, other pages, parts of pages, emails or opens a whole new tab.
+
+
+### How to write a link?
+<p>&nbsp;</p>
+
+![HOW TO WRITE A LINK](/images/writeLINK.png)
+
+<p>&nbsp;</p>
+
+> " URL stands for Uniform Resource Locator. Every web page has its own URL. This is the web address that you would type into a browser if you wanted to visit that specific page." 
+> - Duckett:HTML,CSS
+
+<p>&nbsp;</p>
+
+### Relative Vs. Absolute links
+
+An absolute URL starts with the **domain name** for that site, and can be followed by the path
+to a specific page. If no page is specified, the site will display the homepage.
+
+When you are linking to other pages within the same site, you do not need to specify the domain name in the URL. You can use a shorthand known as **a relative URL**.
