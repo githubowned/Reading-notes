@@ -11,5 +11,6 @@
 
 [4. Read: 04 - HTML Links, CSS Layout, JS Functions](https://mohammadaltamimi98.github.io/Reading-notes/201/class-04)
 
+[5. Read: 05 - HTML Images; CSS Color & Text](https://mohammadaltamimi98.github.io/Reading-notes/201/class-05)
 
 
