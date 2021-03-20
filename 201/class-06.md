@@ -29,15 +29,17 @@ the object.
 > properties and methods have a name and a value. 
 > In an object, that name is called a key.
 
+
 ## How to create an object?
-![declaration](images/od.png)
+
+  ![declaration](../images/od.png)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
 # How to access the attributes of an object?
 
-![dot](images/dot.png)
+![dot](../images/dot.png)
 
 # References:
 1. From the Duckett JS book
