@@ -14,3 +14,6 @@
 [5. Read: 05 - HTML Images; CSS Color & Text](https://mohammadaltamimi98.github.io/Reading-notes/201/class-05)
 
 
+[6. Read: 06 - JS Object Literals; The DOM](https://mohammadaltamimi98.github.io/Reading-notes/201/class-06)
+
+
