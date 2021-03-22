@@ -16,4 +16,4 @@
 
 [6. Read: 06 - JS Object Literals; The DOM](https://mohammadaltamimi98.github.io/Reading-notes/201/class-06)
 
-
+[7. Read: 07 - HTML Tables; JS Constructor Functions](https://mohammadaltamimi98.github.io/Reading-notes/201/class-07)
