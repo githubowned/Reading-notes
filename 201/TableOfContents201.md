@@ -18,4 +18,7 @@
 
 [7. Read: 07 - HTML Tables; JS Constructor Functions](https://mohammadaltamimi98.github.io/Reading-notes/201/class-07)
 
-[Read: 08 - More CSS Layout](https://mohammadaltamimi98.github.io/Reading-notes/201/class-08)
+[8.Read: 08 - More CSS Layout](https://mohammadaltamimi98.github.io/Reading-notes/201/class-08)
+
+[9. Read: 09 - Forms and Events](https://mohammadaltamimi98.github.io/Reading-notes/201/class-09)
+
