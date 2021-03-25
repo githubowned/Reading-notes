@@ -22,3 +22,5 @@
 
 [9. Read: 09 - Forms and Events](https://mohammadaltamimi98.github.io/Reading-notes/201/class-09)
 
+
+[10. Read: 10 - JS Debugging](https://mohammadaltamimi98.github.io/Reading-notes/201/class-10)
