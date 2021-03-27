@@ -24,3 +24,5 @@
 
 
 [10. Read: 10 - JS Debugging](https://mohammadaltamimi98.github.io/Reading-notes/201/class-10)
+
+[11. Read: 11 - Assorted Topics](https://mohammadaltamimi98.github.io/Reading-notes/201/class-11)
