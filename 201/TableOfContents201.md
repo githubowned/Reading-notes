@@ -27,4 +27,4 @@
 
 [11. Read: 11 - Assorted Topics](https://mohammadaltamimi98.github.io/Reading-notes/201/class-11)
 
-[12. Read: 12 - Docs for the HTML <canvas> Element & Chart.js](https://mohammadaltamimi98.github.io/Reading-notes/201/class-12)
+[12. Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js](https://mohammadaltamimi98.github.io/Reading-notes/201/class-12)
