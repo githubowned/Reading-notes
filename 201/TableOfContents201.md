@@ -31,5 +31,8 @@
 
 [13. Read: 13 - Local Storage](https://mohammadaltamimi98.github.io/Reading-notes/201/class-13)
 
-[14. Read: 14b - What Google Learned About Teams](https://mohammadaltamimi98.github.io/Reading-notes/201/class-14b)
+[14. Read: 14a - CSS Transforms, Transitions, and Animations](https://mohammadaltamimi98.github.io/Reading-notes/201/class-14a)
+
+[15. Read: 14b - What Google Learned About Teams](https://mohammadaltamimi98.github.io/Reading-notes/201/class-14b)
+
 
