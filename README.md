@@ -1,6 +1,5 @@
 # Reading Notes
-<!-- ## This is a website that includes all my reading notes and it will be divided into four main sections depending on the class attended: -->
----
+
 
 
 ## [1. Code 102 - Intro to Software Development.](https://mohammadaltamimi98.github.io/Reading-notes/101/TableOfContents101-102)
