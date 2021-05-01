@@ -8,4 +8,6 @@
 
 [3. Read: Class 03 - Readings: Passing Functions as Props](https://mohammadaltamimi98.github.io/Reading-notes/301/Class03)
 
-[4. Read: Class 04 - Readings: React and Forms](https://mohammadaltamimi98.github.io/Reading-notes/301/Class05)
+[4. Read: Class 04 - Readings: React and Forms](https://mohammadaltamimi98.github.io/Reading-notes/301/Class04)
+
+[5. Read: Class 05 - Readings: Putting it all together](https://mohammadaltamimi98.github.io/Reading-notes/301/Class05)
