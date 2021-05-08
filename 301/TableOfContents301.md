@@ -15,3 +15,9 @@
 [6. Readings: NODE.JS - Read: Class 06](https://mohammadaltamimi98.github.io/Reading-notes/301/Class06)
 
 [7. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class07)
+
+[8. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class08)
+
+[9. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class09)
+
+[10. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
