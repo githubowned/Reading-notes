@@ -16,8 +16,8 @@
 
 [7. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class07)
 
-[8. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class08)
+[8. Read: Class 08 - Readings: APIs](https://mohammadaltamimi98.github.io/Reading-notes/301/Class08)
 
-[9. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class09)
+[9.Read: Class 09 - Readings: FUNCTIONAL PROGRAMMING](https://mohammadaltamimi98.github.io/Reading-notes/301/Class09)
 
-[10. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
+[10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
