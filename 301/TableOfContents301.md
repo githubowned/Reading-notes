@@ -11,3 +11,7 @@
 [4. Read: Class 04 - Readings: React and Forms](https://mohammadaltamimi98.github.io/Reading-notes/301/Class04)
 
 [5. Read: Class 05 - Readings: Putting it all together](https://mohammadaltamimi98.github.io/Reading-notes/301/Class05)
+
+[6. Readings: NODE.JS - Read: Class 06](https://mohammadaltamimi98.github.io/Reading-notes/301/Class06)
+
+[7. Readings: REST - Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/301/Class07)
