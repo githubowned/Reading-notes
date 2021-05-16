@@ -36,9 +36,6 @@ If a POST method creates a new resource, it returns HTTP status code 201 (Create
 <p>&nbsp;</p>
 
 
-
-
-
 ## References:
 ---
 

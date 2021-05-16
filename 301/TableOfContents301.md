@@ -21,3 +21,32 @@
 [9.Read: Class 09 - Readings: FUNCTIONAL PROGRAMMING](https://mohammadaltamimi98.github.io/Reading-notes/301/Class09)
 
 [10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
+
+[11. Read: Class 11 - Readings: Authentication](https://mohammadaltamimi98.github.io/Reading-notes/301/Class11)
+
+[12. Read: Class 12 - Readings: Mongo and Mongoose](https://mohammadaltamimi98.github.io/Reading-notes/301/Class12)
+<!-- 
+[10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
+
+[10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
+
+[10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10) -->
+
+
+<!-- 
+# 
+
+
+
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+# References:
+1. 
+2.  -->
+
+
