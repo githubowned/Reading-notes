@@ -40,11 +40,16 @@
  - 403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 ## What is the difference between PUT and PATCH?
 - PUT will update the whole document but PATCH will update that specific document detail.
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 # References:
 1. [Status Codes Based On REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
