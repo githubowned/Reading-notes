@@ -15,28 +15,28 @@
     
 <p>&nbsp;</p>
 
- ## 2. What is a status code 202?
+## 2. What is a status code 202?
  - 202 Accepted is used for asynchronous processing. This code tells the client that the request was valid, but its processing will finish sometime in the future.
 <p>&nbsp;</p>
 
 
- ## 3. What is a status code 308?
+## 3. What is a status code 308?
  - 308 Permanent Redirect - This tells the client to use another URL to access the resource and not use the current URL anymore.
  <p>&nbsp;</p>
 
 
- ## 4. What code would you use if an update didn’t return data to a client?
+## 4. What code would you use if an update didn’t return data to a client?
  - 204 No Content - A proper code for updates that don’t return data to the client, for example when just saving a currently edited document.
 <p>&nbsp;</p>
 
 
- ## 5. What code would you use if a resource used to exist but no longer does?
+## 5. What code would you use if a resource used to exist but no longer does?
  - 410 Gone - This is like 404 but we know that the resource existed in the past, but it got deleted or somehow moved, and we don’t know where.
  <p>&nbsp;</p>
 
 
 
- ## 6. What is the ‘Forbidden’ status code?
+## 6. What is the ‘Forbidden’ status code?
  - 403 Forbidden - The client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource.
 
 <p>&nbsp;</p>
