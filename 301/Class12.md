@@ -18,6 +18,9 @@
 - NoSQL databases are scaled by increasing the databases servers in the pool of resources to reduce the load.
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+
+---
 
 ## What does SQL stand for?
 - Structured Query Language

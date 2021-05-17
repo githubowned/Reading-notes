@@ -26,10 +26,10 @@
 
 [12. Read: Class 12 - Readings: Mongo and Mongoose](https://mohammadaltamimi98.github.io/Reading-notes/301/Class12)
 
+[13. Read: Class 13 - Readings: CRUD](https://mohammadaltamimi98.github.io/Reading-notes/301/Class13)
 
 
 <!-- 
-[10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
 
 [10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
 
