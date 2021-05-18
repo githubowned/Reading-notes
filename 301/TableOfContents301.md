@@ -29,16 +29,24 @@
 [13. Read: Class 13 - Readings: CRUD](https://mohammadaltamimi98.github.io/Reading-notes/301/Class13)
 
 
+[14. Read: Class 14 - Diversity & Inclusion in the Tech Industry](https://mohammadaltamimi98.github.io/Reading-notes/301/Class14)
+
+
+
 <!-- 
-
-[10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10)
-
 [10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10) -->
 
 
 <!-- 
 # 
 
+
+<!-- 
+[10. Read: Class 10 - Readings: In memory storage](https://mohammadaltamimi98.github.io/Reading-notes/301/Class10) -->
+
+
+<!-- 
+# 
 
 
 
