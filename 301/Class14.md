@@ -1,5 +1,7 @@
 # 14. Read: Class 14 - Diversity & Inclusion in the Tech Industry
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 ## 1. What occurred during the same time as the beginning of the decline of women in computer science?
