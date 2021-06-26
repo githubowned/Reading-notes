@@ -1,5 +1,6 @@
 # Reading Notes
 
+### In this site I will be saving all my Reading notes, they are arranged based on the code level:
 
 
 ## [1. Code 102 - Intro to Software Development.](https://mohammadaltamimi98.github.io/Reading-notes/101/TableOfContents101-102)
