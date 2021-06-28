@@ -7,3 +7,4 @@
 
 [2. Readings: Node Ecosystem, TDD, CI/CD](https://mohammadaltamimi98.github.io/Reading-notes/401/Class01)
 
+[2. Read: Class 02](https://mohammadaltamimi98.github.io/Reading-notes/401/Class02)
