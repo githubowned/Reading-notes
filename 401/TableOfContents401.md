@@ -10,3 +10,6 @@
 [2. Read: Class 02](https://mohammadaltamimi98.github.io/Reading-notes/401/Class02)
 
 [3. Read: Class 03](https://mohammadaltamimi98.github.io/Reading-notes/401/Class03)
+
+
+[4. Read: Class 04](https://mohammadaltamimi98.github.io/Reading-notes/401/Class04)
