@@ -88,3 +88,4 @@
  [3.The 5 Whys](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
  [4.Act like you make $1000/hr](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
+
