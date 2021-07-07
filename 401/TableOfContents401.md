@@ -22,3 +22,5 @@
 [7. Read: Class 07](https://mohammadaltamimi98.github.io/Reading-notes/401/Class07)
 
 [8. Read: Class 08](https://mohammadaltamimi98.github.io/Reading-notes/401/Class08)
+
+[9. Read: Class 09](https://mohammadaltamimi98.github.io/Reading-notes/401/Class09)
