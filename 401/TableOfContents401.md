@@ -28,3 +28,5 @@
 [10. Read: Class 10](https://mohammadaltamimi98.github.io/Reading-notes/401/Class10)
 
 [11. Read: Class 11](https://mohammadaltamimi98.github.io/Reading-notes/401/Class11)
+
+[12. Read: Class 12](https://mohammadaltamimi98.github.io/Reading-notes/401/Class12)
