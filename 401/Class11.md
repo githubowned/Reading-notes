@@ -76,3 +76,8 @@ function userJoined(username){
 
 chatRoomEvents.on('userJoined', userJoined);
 ```
+
+
+## References:
+1. [Event Driven Programming](https://alligator.io/nodejs/event-driven-programming/)
+2. [Node docs: events](https://nodejs.org/api/events.html)
