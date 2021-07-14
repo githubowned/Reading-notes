@@ -32,3 +32,5 @@
 [12. Read: Class 12](https://mohammadaltamimi98.github.io/Reading-notes/401/Class12)
 
 [13. Read: Class 13](https://mohammadaltamimi98.github.io/Reading-notes/401/Class13)
+
+[14. Read: Class 14](https://mohammadaltamimi98.github.io/Reading-notes/401/Class14)
