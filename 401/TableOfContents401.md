@@ -1,7 +1,7 @@
 # [Table of contents:](https://mohammadaltamimi98.github.io/Reading-notes)
 
 
-<br> 
+<br/> 
 
 [1. Prep: Readings ... Get Ready for 401](https://mohammadaltamimi98.github.io/Reading-notes/401/prep)
 
@@ -34,3 +34,5 @@
 [13. Read: Class 13](https://mohammadaltamimi98.github.io/Reading-notes/401/Class13)
 
 [14. Read: Class 14](https://mohammadaltamimi98.github.io/Reading-notes/401/Class14)
+
+[15. Read: Class 15](https://mohammadaltamimi98.github.io/Reading-notes/401/Class14-b)

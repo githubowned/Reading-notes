@@ -1,6 +1,7 @@
 # Read: Trees
 
 
+
 ## Define the following terms:
 
 - Node : A Tree node is a component which may contain it’s own values, and references to other nodes.
