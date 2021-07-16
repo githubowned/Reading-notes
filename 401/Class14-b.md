@@ -143,3 +143,12 @@ events.emit('foo'); // Nothing will happen
 
 3. What are you most excited about trying to implement or see how it works?
 - A full project.
+
+
+<br/><br/><br/>
+<br/>
+<br/>
+<br/><br/>
+
+# References: 
+[Understanding the Event-driven Architecture](https://softobiz.com/understanding-the-event-driven-architecture/)
