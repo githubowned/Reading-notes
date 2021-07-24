@@ -93,3 +93,17 @@ Term:
 - What are you most excited about trying to implement or see how it works?
 - Let's see.
 <br/>
+<br/>
+<br/>
+<br/>
+
+# References:
+[Virtual Machines ](https://www.youtube.com/watch?v=yIVXjl4SwVo)
+
+[VMS and the Cloud ](https://www.youtube.com/watch?v=l0DfHUWMjsU)
+
+[AWS EC2](https://aws.amazon.com/ec2/)
+
+[EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg)
+
+[Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
