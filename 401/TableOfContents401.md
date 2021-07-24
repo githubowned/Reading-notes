@@ -36,3 +36,5 @@
 [14. Read: Class 14](https://mohammadaltamimi98.github.io/Reading-notes/401/Class14)
 
 [15. Read: Class 15](https://mohammadaltamimi98.github.io/Reading-notes/401/Class14-b)
+
+[16. Read: Class 16](https://mohammadaltamimi98.github.io/Reading-notes/401/Class16)
