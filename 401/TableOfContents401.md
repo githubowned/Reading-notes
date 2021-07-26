@@ -40,3 +40,6 @@
 [16. Read: Class 16](https://mohammadaltamimi98.github.io/Reading-notes/401/Class16)
 
 [17. Read: Class 17](https://mohammadaltamimi98.github.io/Reading-notes/401/Class17)
+
+
+[18. Read: Class 18](https://mohammadaltamimi98.github.io/Reading-notes/401/Class18)
