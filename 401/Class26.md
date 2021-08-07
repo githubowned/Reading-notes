@@ -91,8 +91,10 @@
 
 
 # References:
-[react hello world](https://facebook.github.io/react/docs/hello-world.html)
-[introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
-[rendering elements](https://facebook.github.io/react/docs/rendering-elements.html)
+- [react hello world](https://facebook.github.io/react/docs/hello-world.html)
+
+- [introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
+
+- [rendering elements](https://facebook.github.io/react/docs/rendering-elements.html)
 
 
