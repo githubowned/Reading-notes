@@ -76,15 +76,23 @@
 
 
 # Preview
-Which 3 things had you heard about previously and now have better clarity on?
+#### Which 3 things had you heard about previously and now have better clarity on?
 - Redux maybe
 <br/> 
 
-Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+#### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 - how to manipulate states more professionally.
 <br/> 
 
 
-What are you most excited about trying to implement or see how it works?
+#### What are you most excited about trying to implement or see how it works?
 - using new frameworks or libraries.
 <br/> 
+
+
+# References:
+[react hello world](https://facebook.github.io/react/docs/hello-world.html)
+[introducing JSX](https://facebook.github.io/react/docs/introducing-jsx.html)
+[rendering elements](https://facebook.github.io/react/docs/rendering-elements.html)
+
+
