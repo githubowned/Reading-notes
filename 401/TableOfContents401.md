@@ -47,3 +47,5 @@
 [19. Read: Class 19](https://mohammadaltamimi98.github.io/Reading-notes/401/Class19)
 
 [20. Read: Class 26](https://mohammadaltamimi98.github.io/Reading-notes/401/Class26)
+
+[21. Read: Class 27](https://mohammadaltamimi98.github.io/Reading-notes/401/Class27)
