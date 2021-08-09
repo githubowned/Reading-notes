@@ -76,11 +76,16 @@ function Todos() {
 
 # Definitions:
 
-- Functional Components
-- Children / Child Components
+- Functional Components: Functional components are basic JavaScript functions. These are typically arrow functions but can also be created with the regular function keyword. Sometimes referred to as “dumb” or “stateless” components as they simply accept data and display them in some form; that is they are mainly responsible for rendering UI.
+<br/>
+<br/>
+
+
+- Children / Child Components: A child component is a more specific part inside a parent component. Example would be a parent component being a PERSON. ARMS and LEGS are child components of it.
 
 <br/>
 <br/>
+
 
 # Review
 
@@ -103,8 +108,7 @@ function Todos() {
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 # References:
 
