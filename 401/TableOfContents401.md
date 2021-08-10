@@ -49,3 +49,6 @@
 [20. Read: Class 26](https://mohammadaltamimi98.github.io/Reading-notes/401/Class26)
 
 [21. Read: Class 27](https://mohammadaltamimi98.github.io/Reading-notes/401/Class27)
+
+
+[22. Read: Class 28](https://mohammadaltamimi98.github.io/Reading-notes/401/Class28)
