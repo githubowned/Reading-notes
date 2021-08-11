@@ -52,3 +52,5 @@
 
 
 [22. Read: Class 28](https://mohammadaltamimi98.github.io/Reading-notes/401/Class28)
+
+[23. Read: Class 29](https://mohammadaltamimi98.github.io/Reading-notes/401/Class29)
