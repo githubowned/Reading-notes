@@ -102,8 +102,23 @@
 <br/>
 <br/>
 
+## What is a Hash function?
+- A hash function is any function that can be used to map a data set of an arbitrary size to a data set of a fixed size, which falls into the hash table. 
+
+- The values returned by a hash function are called hash values, hash codes, hash sums, or simply hashes.
+<br/>
+<br/>
+
+ ## What is Double Hashing?
+  - Double hashing is similar to linear probing and the only difference is the interval between successive probes. Here, the interval between probes is computed by using two hash functions.
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## References:
+
 - [What is a Hashtable?](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html).
 
 - [https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/).
