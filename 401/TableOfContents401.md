@@ -57,3 +57,5 @@
 
 
 [23. Read: Class 30](https://mohammadaltamimi98.github.io/Reading-notes/401/Class30)
+
+[23. Read: Class 31](https://mohammadaltamimi98.github.io/Reading-notes/401/Class31)
