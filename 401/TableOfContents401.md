@@ -56,6 +56,9 @@
 [23. Read: Class 29](https://mohammadaltamimi98.github.io/Reading-notes/401/Class29)
 
 
-[23. Read: Class 30](https://mohammadaltamimi98.github.io/Reading-notes/401/Class30)
+[24. Read: Class 30](https://mohammadaltamimi98.github.io/Reading-notes/401/Class30)
 
-[23. Read: Class 31](https://mohammadaltamimi98.github.io/Reading-notes/401/Class31)
+[25. Read: Class 31](https://mohammadaltamimi98.github.io/Reading-notes/401/Class31)
+
+
+[26. Read: Class 32](https://mohammadaltamimi98.github.io/Reading-notes/401/Class32)
