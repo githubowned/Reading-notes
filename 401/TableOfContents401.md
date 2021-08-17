@@ -62,3 +62,7 @@
 
 
 [26. Read: Class 32](https://mohammadaltamimi98.github.io/Reading-notes/401/Class32)
+
+
+
+[27. Read: Class 33](https://mohammadaltamimi98.github.io/Reading-notes/401/Class33)
