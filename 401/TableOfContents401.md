@@ -76,3 +76,5 @@
 [30. Read: Class 36](https://mohammadaltamimi98.github.io/Reading-notes/401/Class36)
 
 [31. Read: Class 37](https://mohammadaltamimi98.github.io/Reading-notes/401/Class37)
+
+[32. Read: Class 38](https://mohammadaltamimi98.github.io/Reading-notes/401/Class38)
