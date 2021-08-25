@@ -79,4 +79,4 @@
 
 [32. Read: Class 38](https://mohammadaltamimi98.github.io/Reading-notes/401/Class38)
 
-[33. Read: Class 39](https://mohammadaltamimi98.github.io/Reading-notes/401/Class38)
+[33. Read: Class 39](https://mohammadaltamimi98.github.io/Reading-notes/401/Class39)
